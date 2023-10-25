@@ -17,7 +17,7 @@ Extract it directly using binwalk with the option -Me.
 
 To extract data directly using Binwalk with the option `-Me`, use the `-Me` flag in Binwalk. This option allows you to quickly extract embedded files from a binary file without additional steps or tools.
 
-Analyzing the binary file /usr/sbin/httpd, in the function FUN_00081a80, the value of `vlan_id` is obtained from FUN_00016b04 (URLdecode) without proper input sanitization.
+Analyzing the binary file `/usr/sbin/httpd`, in the function FUN_00081a80, the value of `vlan_id` is obtained from FUN_00016b04 (URLdecode) without proper input sanitization.
 FUN_00017bd0 (Navigate to page).
 
 ![Decompiler](Decompile.png) <!-- Add this line to insert the decompiler image -->
