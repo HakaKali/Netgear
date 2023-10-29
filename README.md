@@ -10,6 +10,7 @@ potential - SQL injection, buffer overflow
 
 ## Firmware Analysis
 Firmware download: `https://www.netgear.com/support/download/?model=R6250`
+![download](download.png)
 
 Extract it directly using binwalk with the option -Me.
 
