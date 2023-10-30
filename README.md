@@ -24,6 +24,8 @@ FUN_00017bd0 (Navigate to page).
 
 ![Decompiler](Decompile.png) <!-- Add this line to insert the decompiler image -->
 
+![9](9.png)
+
 Set up the router environment through FirmAE.
 
 ![Environment](environment.png) <!-- Add this line to insert the environment image -->
