@@ -1,6 +1,7 @@
 # Vulnerability Description
 Netgear R6250 router is vulnerable to malicious input after authentication.
-potential - SQL injection, buffer overflow
+
+potentially leading to unexpected system behavior.
 
 ## Basic Information
 * CVE-ID:
