@@ -1,3 +1,14 @@
+**
+Report of Additional Weaknesses (Under Review)
+
+Note: These findings have not been published due to my decision to forego the Bug Bounty as per the regulations of the program.
+
+    Command Injection Post-Authentication: It has been identified that, subsequent to a successful authentication, an attacker is capable of injecting commands into the POST request parameters. This vulnerability potentially allows the attacker to gain unauthorized shell privileges.
+
+    Unauthenticated Remote Access Vulnerability: There exists a weakness whereby a remote attacker can access certain pages without the need for any authentication. 
+**
+
+
 # Vulnerability Description
 Netgear R6250 router is vulnerable to malicious input after authentication.
 
