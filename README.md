@@ -1,7 +1,7 @@
 **
 Report of Additional Weaknesses (Under Review)
 
-Note: These findings have not been published due to my decision to forego the Bug Bounty as per the regulations of the program.
+Note: I'm about to publish a writeup that was previously delayed due to bug bounty rules. 
 
     Command Injection Post-Authentication: It has been identified that, subsequent to a successful authentication, an attacker is capable of injecting commands into the POST request parameters. This vulnerability potentially allows the attacker to gain unauthorized shell privileges.
 
